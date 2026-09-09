@@ -90,8 +90,8 @@ Same P&L cut by fiscal month (Sep–Aug) for each year, plus YoY net-sales %.
 ## Read this first
 
 1. Sales went from $87.5M to $598.9M. P&A is the engine.
-2. 2021 still landed **~9% under target**.
-3. GM% slid from ~**41%** to ~**36%** in all three divisions.
+2. 2021 still landed **9% under target**.
+3. GM% slid from **41%** to **36%** in all three divisions.
 4. Amazon + AtliQ’s own channels carry a large share of 2021 sales.
 5. India and USA = volume. Japan, Norway, UK = margin.
 
